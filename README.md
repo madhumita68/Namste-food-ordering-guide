@@ -33,10 +33,11 @@ A responsive food ordering web application built using React.js and Parcel.js.
 - `Hooks/` - Custom React hooks
 - `Common/` - Common components/utilities
 - `img/` - Images and assets
-
 ## ⚙️ Installation
 
 Clone the repository:
 
 ```bash
 git clone https://github.com/madhumita68/Namste-food-ordering-guide.git
+
+Live Project App link - https://namste-food-ordering-guide.vercel.app/
