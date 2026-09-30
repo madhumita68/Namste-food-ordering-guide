@@ -1,11 +1,42 @@
-## Namaste React Course by Akshay Saini
-# Chapter 09 - Optimizing our App
+# Food Ordering Web Application
 
+A responsive food ordering web application built using React.js and Parcel.js.
 
-## Coding Assignment:
-- Create your `custom hooks`.
-- Try out `lazy and suspense`
-- Make your `code clean`.
+## 🚀 Features
 
+- Restaurant listing
+- Restaurant menu display
+- Search functionality
+- Cart management
+- Add and remove items from cart
+- React Context API for state management
+- Dynamic routing
+- API integration
+- Reusable React components
+- Custom hooks
 
-## Created a FoodFire App from scratch using React.js and Parcel.js 🚀 [Live Project App Link 😍](https://foodfire-chapter09.netlify.app/)
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Parcel.js
+- React Router
+- Context API
+- REST API
+
+## 📂 Project Structure
+
+- `Components/` - Reusable UI components
+- `context/` - Context API and state management
+- `Hooks/` - Custom React hooks
+- `Common/` - Common components/utilities
+- `img/` - Images and assets
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/madhumita68/Namste-food-ordering-guide.git
